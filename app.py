@@ -72,5 +72,3 @@ if __name__ == '__main__':
     # Required for Vercel serverless deployment
 application = app  # Vercel looks for 'application' by default
 
-if __name__ == "__main__":
-    application.run()

@@ -1,0 +1,7 @@
+*.csv
+*.ipynb
+*.pkl
+data/
+notebooks/
+__pycache__/
+venv/

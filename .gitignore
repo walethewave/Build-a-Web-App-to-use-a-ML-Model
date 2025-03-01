@@ -5,10 +5,8 @@ venv/
 
 # Data files
 *.csv
-*.pkl
+
 
 # Jupyter
 .ipynb_checkpoints/
 
-# Environment
-.env
